@@ -7,6 +7,12 @@
       "packed": false
     },
     {
+      "name": "install-all.sh",
+      "url": "https://github.com/pocopico/redpill-load/raw/develop/redpill-misc/releases/install-all.sh",
+      "sha256": "856331415d6980d9ef03a75eae4b9c5c927d1083266e1d7038ad8c62fbc2d570",
+      "packed": false
+    },
+    {
       "name": "ttyd",
       "url": "https://github.com/tsl0922/ttyd/releases/download/1.6.3/ttyd.x86_64",
       "sha256": "d69320cc45f51d144242935abe3443ad7d2fd1356a6732879ab175a406eafa85",
